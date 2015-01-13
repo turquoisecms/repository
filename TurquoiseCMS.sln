@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turquoise.Core", "Turquoise.Core\Turquoise.Core.csproj", "{F9D48C5F-12F4-4218-A7AE-8373844F2C51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turquoise.Common", "Turquoise.Common\Turquoise.Common.csproj", "{37AD05FB-3E74-4922-AA93-B9C822C39511}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F9D48C5F-12F4-4218-A7AE-8373844F2C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9D48C5F-12F4-4218-A7AE-8373844F2C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9D48C5F-12F4-4218-A7AE-8373844F2C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37AD05FB-3E74-4922-AA93-B9C822C39511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AD05FB-3E74-4922-AA93-B9C822C39511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AD05FB-3E74-4922-AA93-B9C822C39511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AD05FB-3E74-4922-AA93-B9C822C39511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
